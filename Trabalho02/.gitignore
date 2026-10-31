@@ -50,4 +50,3 @@ app.*.map.json
 # Materiais da atividade usados como referência, não necessários para executar o app.
 /prompt.txt
 /image.png
-/Lista Exercícios2026.2.pdf
